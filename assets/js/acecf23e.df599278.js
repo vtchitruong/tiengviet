@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktiengviet=self.webpackChunktiengviet||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/tiengviet/blog","blogTitle":"Blog","authorsListPath":"/tiengviet/blog/authors"}')}}]);
