@@ -2,46 +2,32 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Chào mừng đến với Góc Tiếng Việt
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Chào mừng các bạn đã đến với website, nơi chia sẻ những kiến thức về ngôn ngữ học tiếng Việt.
 
-## Getting Started
+Website này được xây dựng với tâm huyết, xuất phát từ quá trình học tập và ghi chú cá nhân, với mong muốn tạo ra một nguồn tài liệu tham khảo đáng tin cậy, dễ tiếp cận dành cho tất cả những ai yêu mến tiếng Việt.
 
-Get started by **creating a new site**.
+Dù bạn là người nước ngoài đang trên hành trình chinh phục một ngôn ngữ mới, hay một người Việt muốn hiểu sâu hơn về tiếng mẹ đẻ, tôi tin rằng bạn sẽ tìm thấy những thông tin hữu ích tại đây.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Về nội dung và nguồn tham khảo
 
-### What you'll need
+Nội dung trên website là những ghi chú được tổng hợp và hệ thống hoá từ quá trình học tập cá nhân, chứ không phải là công trình nghiên cứu độc lập. Hầu hết kiến thức được tham khảo và đối chiếu từ các tài liệu uy tín sau:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+* Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc.
 
-## Generate a new site
+### Các chuyên mục chính
 
-Generate a new Docusaurus site using the **classic template**.
+Hiện tại, website tập trung vào các chuyên mục chính:
 
-The classic template will automatically be added to your project after you run the command:
+* **Ngữ pháp:** Phân tích chi tiết về cấu trúc câu, các loại từ, và những quy tắc ngữ pháp phức tạp thường gây nhầm lẫn.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+* **Từ vựng:** Khám phá các nhóm từ vựng theo chủ đề, tìm hiểu về từ nguyên và cách sử dụng từ trong các ngữ cảnh khác nhau.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+* **Ngữ âm - Âm vị học:** (Dự kiến) Tìm hiểu về hệ thống âm thanh, thanh điệu và cách phát âm chuẩn xác.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Mục đích hoạt động
 
-## Start your site
+Toàn bộ nội dung trên website được dùng cho để tham khảo và tra cứu, một cách miễn phí, và không phục vụ bất kỳ mục đích thương mại nào. Hy vọng góp một phần nhỏ vào việc bảo tồn và phát triển sự trong sáng, giàu đẹp của tiếng Việt.
 
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Để bắt đầu, mời bạn khám phá các chủ đề ở thanh điều hướng bên trái. Chúc bạn tìm thấy được thông tin mình cần và có được những khoảnh khắc đầy cảm hứng.

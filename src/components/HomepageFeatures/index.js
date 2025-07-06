@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Khoa học và tin cậy',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Các ghi chú được tổng hợp và sắp xếp một cách logic, dựa trên những tài liệu ngôn ngữ học uy tín, giúp người đọc dễ dàng tiếp cận kiến thức một cách bài bản và có chiều sâu.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Dễ tra cứu',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Tập trung vào trải nghiệm đọc và tra cứu. Nội dung được trình bày mạch lạc, đi thẳng vào vấn đề, kết hợp với thanh điều hướng thông minh giúp bạn nhanh chóng tìm thấy thông tin mình cần.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Phi lợi nhuận',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Website được xây dựng hoàn toàn vì mục đích chia sẻ tri thức, phi thương mại. Mọi kiến thức tại đây đều miễn phí, nhằm góp phần vào việc gìn giữ và lan tỏa vẻ đẹp của tiếng Việt.
       </>
     ),
   },
