@@ -25,6 +25,8 @@ không kể mình có hay không quyền sở hữu về vật đó, cũng khôn
 
 *Tìm* và *kiếm* là hai vị từ có nghĩa gần nhau đến nỗi thường dùng với nhau thành một cặp đẳng lập mang hai trọng âm theo kiểu *đi đứng*, *lạnh nhạt* hay *nhảy nhót*, *làm lụng*. [^1]
 
+[^1]: Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc, tr. 152.
+
 Trong nhiều phương ngữ miền Nam, đặc biệt ở Nam Bộ, *kiếm* thông dụng  hơn *tìm*, vì trong rất nhiều ngôn cảnh nó được dùng vào những chỗ mà người miền Bắc chỉ dùng *tìm*.
 
 Ở miền Bắc, *tìm* và *kiếm* không khác nhau bao nhiêu về nội dung, mà khác nhau rõ nhất là về **tính chất ngữ pháp của những bổ ngữ (O)** mà nó chấp nhận.
@@ -51,5 +53,3 @@ Khi dùng cho người, ngữ đoạn này có nghĩa là "tìm cách để sinh
 *Tìm bạn* ở đây được hiểu theo nghĩa của mục "Tìm bạn" trên các báo, nghĩa là tìm những người nào khả dĩ trở thành bạn mình.
 
 *Tìm bạn* và *tìm vàng* đều có một **danh ngữ không xác định** làm bổ ngữ chỉ đối tượng cho *tìm* mà nghe vẫn không lạ tai. Điều này có thể giải thích bằng tính thành ngữ của các ngữ đoạn hữu quan (trong đó có cả **tính loại biệt** của các tiêu đề in chữ lớn trên các báo), và có lẽ cũng có thể viện đến tính quý hiếm của *vàng* khiến cho nó không thể thành một **bổ ngữ nội tại** của *tìm* hay *kiếm* được – so sánh *kiếm vàng, kiếm kim cương, kiếm bạch kim, kiếm uranium* với *kiếm củi, kiếm tiền, kiếm cơm, kiếm gạo*. Đây là những công việc được coi là thường nhật, cho nên dùng *kiếm* nghe rất bình thường, ai cũng hình dung được sự thể ngay tức khắc. Trong khi đó phải dụng công mới hình dung được những tình huống (mà) trong đó có thể nói *tìm tiền, tìm gạo, tìm cơm*. 
-
-[^1]: Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc, tr. 152.

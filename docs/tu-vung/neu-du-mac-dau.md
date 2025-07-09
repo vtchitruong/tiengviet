@@ -8,6 +8,8 @@ sidebar_position: 1
 
 *Nếu* dùng để đánh dấu tính điều kiện của một sự thể giả định. Sự thể giả định này đưa ra trong phát ngôn là để thông báo một điều gì khác (phần thuyết của câu, thường đi sau chữ *thì*) sẽ trở thành hiện thực khi nào cái sự thể giả định ấy trở thành hiện thực. [^1]
 
+[^1]: Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc, tr. 181.
+
 So với *nếu*, *dù* có thêm cái ý *"ngay cả"*.
 
 Ví dụ:
@@ -19,7 +21,7 @@ Sự khác nhau giữa *nếu* và *dù* không phải ở tính chất hay chi�
 
 ## Dù và tuy, mặc dầu
 
-1\. *Tuy/Mặc dầu* (*mặc dù*) dùng để trần thuật những sự việc có diễn ra thực (nhất là những sự việc mà người nói có chứng kiến), làm thành một trở ngại có thể ngăn cản một sự thể khác nhưng không ngăn cản được.
+1\. *Tuy/Mặc dầu* (*mặc dù*) dùng để trần thuật những sự việc có diễn ra thực (nhất là những sự việc  mà người nói có chứng kiến), làm thành một trở ngại có thể ngăn cản một sự thể khác nhưng không ngăn cản được.
 
 *Dù* (*dù cho*, *cho dù*, *dầu cho*, *dẫu*, *dẫu cho*, *ví dầu*, v.v...) dùng để nói về những sự thể không có thật hay chưa có thật mà chỉ giả định, những dự kiến, những phỏng đoán, những suy diễn, vốn chỉ có trong trí óc con người chứ không hề có (hay ít nhất là chưa hề có) trong thế giới hiện thực, dù những dự đoán ấy có chắc chắn đến đâu chăng nữa. 
 
@@ -61,5 +63,3 @@ e. Dân bản xứ vẫn còn lo sợ *dù* tình hình đã lắng dịu hẳn.
 Trong câu b. và c., việc dùng *dù* tỏ ra đặc biệt phi lý. Người nói (tôi) và người nghe (anh) tất nhiên phải biết chắc chắn rằng mệnh đề đi sau *dù* là đúng sự thật, chứ tuyệt nhiên không có tính giả định.
 
 Trong câu a. và d., *dù* không thể dung hoà với *rất*, vốn không thể dùng trong những câu phi hiện thực như "Tôi muốn tìm mua một cái xe *rất* tốt (chỉ có thể nói: một cái xe *thật* tốt).
-
-[^1]: Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc, tr. 181.

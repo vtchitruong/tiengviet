@@ -1,10 +1,13 @@
 ---
 sidebar_position: 1
+description: Diễn giải ngữ pháp của cặp câu Cấm hút thuốc và Cấm không được hút thuốc.
 ---
 
 # Cấm không được hút thuốc
 
 Cả hai cách nói sau đây đều thông dụng, đều hoàn toàn tự nhiên ở người bản ngữ bình thường và không bao giờ bị hiểu sai: [^1]
+
+[^1]: Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc, tr. 178.
 
 a. *Cấm hút thuốc.*  
 b. *Cấm không hút thuốc.*
@@ -18,5 +21,3 @@ b. Trong *Cấm không hút thuốc*, *không hút thuốc* hoặc *không đư�
 Câu a. thường dùng trong văn viết (trên yết thị), chẳng hạn: *Cấm hút thuốc*, *Không hút thuốc*, *Xin đừng hút thuốc*.
 
 Câu b. hầu như chỉ dùng trong văn nói.
-
-[^1]: Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc, tr. 178.

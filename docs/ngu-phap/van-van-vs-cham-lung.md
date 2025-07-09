@@ -8,6 +8,8 @@ sidebar_position: 1
 
 *Vân vân*, trong tiếng Việt và nhiều thứ tiếng thông dụng khác, có nghĩa là: [^1]
 
+[^1]: Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc, tr. 173.
+
 - *và những thức khác*
 - *và những việc khác*
 - *và những người khác*
@@ -51,6 +53,3 @@ Ví dụ:
 *Tính thành ngữ* không thể dùng để chứng minh một cụm từ là một từ . Vì *tính thành ngữ* là đặc trưng của... thành ngữ, và thành ngữ bao giờ cũng hồm hai từ trở lên.
 
 *Dấu chấm lửng* không thể dùng sau *v.v...* nếu không muốn nói rằng câu chưa kết thúc, cũng không thể thay cho *v.v...* để nói rằng "còn có những thứ/những việc/những người khác nữa".
-
-[^1]: Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc, tr. 173.
-

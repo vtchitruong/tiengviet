@@ -23,9 +23,9 @@
   --ifm-font-color-base: #5D4037; /* Chữ màu Nâu đậm */
 
   /* -- Navbar -- */
-  --ifm-navbar-background-color: var(--ifm-color-primary);
-  --ifm-navbar-link-color: #ffffff;
-  --ifm-navbar-link-hover-color: #D2B48C; /* Nâu nhạt khi hover */
+  --ifm-navbar-background-color: #F5F5DC;
+  --ifm-navbar-link-color: var(--ifm-font-color-base); /* màu chữ chính (nâu đậm) */
+  --ifm-navbar-link-hover-color: var(--ifm-link-color); /* màu nhấn (nâu đất) khi hover */
 
   /* -- Code Blocks -- */
   --ifm-code-background: #EFEBE9;
