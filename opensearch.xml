@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Góc Tiếng Việt</ShortName>
+  <Description>Search Góc Tiếng Việt</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://vtchitruong.github.io/tiengviet/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://vtchitruong.github.io/tiengviet/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://vtchitruong.github.io/tiengviet/opensearch.xml" />
+  <moz:SearchForm>https://vtchitruong.github.io/tiengviet/</moz:SearchForm>
+</OpenSearchDescription>
