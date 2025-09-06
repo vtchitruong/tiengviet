@@ -180,6 +180,19 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'WM1ZKEVCSQ',
+
+        // Public API key: it is safe to commit it
+        apiKey: '31221361788343d509c75e82ffa3743f',
+
+        indexName: 'Goc Tieng Viet',
+
+        // Optional: see doc section below
+        contextualSearch: true,
+      },
     }),
 
   // for Algolia
