@@ -84,21 +84,50 @@ const config = {
       navbar: {
         title: 'Góc Tiếng Việt',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Góc Tiếng Việt Logo',
           src: 'img/goc-tieng-viet-logo.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Chuyên mục',
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Chuyên mục',
+          // },
           // {to: '/blog', label: 'Blog', position: 'left'}, uncomment this later if for a blog
+          // {
+          //   href: 'https://github.com/vtchitruong/tiengviet',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
+          // Mục 1: Link đến file intro.md
           {
-            href: 'https://github.com/vtchitruong/tiengviet',
-            label: 'GitHub',
-            position: 'right',
+            type: 'doc',
+            docId: 'intro', // ID của file intro.md
+            position: 'left',
+            label: 'Giới thiệu',
+          },
+          
+          // Mục 2: Link đến chuyên mục Ngữ pháp
+          {
+            type: 'doc',
+            docId: 'ngu-phap/cau-truc-de-thuyet', // ID của bài viết đầu tiên trong chuyên mục
+            position: 'left',
+            label: 'Ngữ pháp',
+          },
+          
+          // Mục 3: Link đến chuyên mục Từ vựng
+          {
+            type: 'doc',
+            docId: 'tu-vung/neu-du-mac-dau', // ID của bài viết đầu tiên trong chuyên mục
+            position: 'left',
+            label: 'Từ vựng',
+          },
+          {
+            type: 'doc',
+            docId: 'thanh-ngu/duoc-voi-doi-tien', // ID của bài viết đầu tiên trong chuyên mục
+            position: 'left',
+            label: 'Thành ngữ',
           },
         ],
       },
@@ -152,6 +181,17 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  // for Algolia
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'algolia-site-verification',
+        content: '7A28BF167ABB75FF',
+      },
+    },
+  ],
 };
 
 export default config;

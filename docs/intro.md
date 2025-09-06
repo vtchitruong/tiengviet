@@ -16,6 +16,10 @@ Nội dung trên website là những ghi chú được tổng hợp và hệ th�
 
 * Cao Xuân Hạo. (2021). *Tiếng Việt - Văn Việt - Người Việt* (Tái bản lần 2). Nhà xuất bản Văn hoá Dân tộc.
 
+* Cao Xuân Hạo & Trần Thị Tuyết Mai. (2021). *Sổ tay sửa lỗi hành văn* (Tái bản lần 1). Nhà xuất bản Văn hoá Dân tộc.
+
+* An Chi. (2022). *Rong chơi miền chữ nghĩa*. Nhà xuất bản Tổng hợp Thành phố Hồ Chí Minh.
+
 ### Các chuyên mục chính
 
 Hiện tại, website tập trung vào các chuyên mục chính:
